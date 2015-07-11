@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/satrapade/advanced-chat.git"
+    "url": "https://github.com/anistark/aceroom.git"
   },
-  "author": "Tamas Piros",
-  "url": "http://tamas.io",
-  "email": "me@tamas.io",
+  "author": "AniStark",
+  "url": "http://anistark.github.io",
+  "email": "anirudhastark@yahoo.com",
   "license": "free",
   "bugs": {
-    "url": "https://github.com/satrapade/advanced-chat/issues"
+    "url": "https://github.com/anistark/aceroom/issues"
   },
-  "homepage": "https://github.com/satrapade/advanced-chat"
+  "homepage": "https://github.com/anistark/aceroom"
 }
